@@ -2,8 +2,7 @@
 ##### 计算机专业在读学生，Vue.js 和 Flutter 都在学习中，希望不吝赐教（鞠躬）
 
 ##### 我的博客：[我的博客](https://guagua.netlify.app/)
-<img src="https://github.com/chloeeee72/chloeeee72/blob/master/jugong.gif_jpg" alt="" title="" width="200" height="200" />
-
+<img src="https://github.com/chloeeee72/chloeeee72/blob/master/jugong.gif_jpg" alt="" title="" width="220" height="220" />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chloeeee72&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
